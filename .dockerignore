@@ -1,0 +1,5 @@
+node_modules
+dist
+hotel25-dist.zip
+.git
+.env
